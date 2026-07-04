@@ -1,0 +1,27 @@
+Department,Sub_Department,Total_Employees,Avg_Attendance_Pct,Avg_Absent_Days,Total_Salary_Lost,Employees_Below_75Pct
+Maintenance,"Helmet Finishing",1,0,12.00,26411.08,4
+Production,Rolling,1,26,18.00,13117.37,2
+"Quality Control","Quality Control",3,60.22,3.58,33193.78,4
+Administration,Navision,1,61.31,9.50,7881.12,1
+Administration,"House Keeping",7,67.67,7.57,73963.77,12
+Administration,Pantry,3,80.77,1.92,10979.7,4
+Maintenance,Mechanical,1,86.31,3.00,7079.93,0
+Production,Coating,2,87.44,2.63,9265.17,1
+Production,"Helmet Finishing",8,88.36,2.53,38691.82,6
+"Quality Control",Process-Q.C.,2,89.33,2.63,12387.6,1
+Store,"Rm Store",2,90.37,2.25,8038.35,1
+Administration,"Human Resource",1,91.23,2.25,6384.35,0
+Store,"Maint. Store",2,91.81,1.75,5592.35,0
+Production,Molding,3,93.82,1.33,11040.42,1
+Accounts,Navision,1,94.15,1.50,4082.72,0
+Accounts,Accounts,1,94.23,1.25,2553.27,0
+Administration,Bunching,1,94.23,1.50,1096.15,0
+Administration,"Miscellaneous Work",1,95.19,1.00,2165.54,0
+Administration,Legal,1,95.19,1.25,4557.88,0
+Production,"Fabric Cutting",5,95.87,0.75,9080.47,0
+Utility,Boiler,1,96.12,0.75,2081,0
+Administration,Transport,7,96.27,0.92,13641.73,0
+Maintenance,Electrical,3,96.56,1.00,3553.37,0
+Production,"Water Jet",2,96.62,0.50,3133.17,0
+Production,Pantry,1,98.08,0.50,365.38,0
+Production,Scada,1,100,0.00,0,0

@@ -1,0 +1,11 @@
+Employee_Name,Department,Sub_Department,Fixed_Salary,Total_4Month_Wages,Avg_Attendance_Pct,Total_OT_Earned,Total_Salary_Lost,Pay_Justification
+"Amar Singh",Production,Molding,29166.00,116664,99.04,1121.77,1121.77,Justified
+"Ankur Mani",Administration,Legal,23701.00,90246.12,95.19,0,4557.88,Justified
+"Ambrish Kumar",Production,"Water Jet",24209.00,77748.13,96.12,7914.48,1899.48,Justified
+"Ratnesh Kumar",Administration,Pantry,15527.00,76930.31,79.88,23589.1,2388.77,"Review Required"
+"Dharmendra Yadav",Administration,Transport,23254.00,69762,100,0,0,Justified
+"Naresh Yadav",Utility,Boiler,17798.00,68426.46,96.12,0,2081,Justified
+"Salman Khan",Administration,"Human Resource",18201.00,66419.65,91.23,0,6384.35,Moderate
+"Arjun Singh",Accounts,Navision,17459.00,65753.28,94.15,0,4082.72,Moderate
+"Bharat Prasad","Quality Control","Quality Control",17140.00,64578.25,93.23,659.23,3955.38,Moderate
+"Anuj Yadav",Production,"Fabric Cutting",31073.00,62146,94.87,4780.46,4780.46,Moderate

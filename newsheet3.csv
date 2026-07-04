@@ -1,0 +1,10 @@
+Employee_Name,Department,Avg_Day_Shifts,Avg_Night_Shifts,Avg_OD_Days,Avg_Absent_Days,Avg_Attendance_Pct,Risk_Flag
+Lala,Administration,0,0.00,0.00,21.00,13.81,"Chronic Absentee"
+"Prashant Kumar",Production,0,0.00,0.00,18.00,26,"Chronic Absentee"
+"Nihal Singh",Maintenance,0,0.00,0.00,12.00,0,"Chronic Absentee"
+Sonu,Administration,0,0.00,0.00,9.75,59,"Chronic Absentee"
+"Maneesh Kumar",Administration,0,0.00,0.00,9.50,61.31,"Chronic Absentee"
+Rajesh,Administration,0,0.00,0.00,7.25,68.04,"Chronic Absentee"
+"Anit Chaurasiya",Production,0,0.00,0.00,6.25,75,"Chronic Absentee"
+"Ajeet Singh","Quality Control",0,0.00,0.00,6.00,0,"Chronic Absentee"
+"Ram Babu",Administration,0,0.00,0.00,5.50,74.73,"Chronic Absentee"

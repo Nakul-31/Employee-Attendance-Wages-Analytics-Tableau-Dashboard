@@ -1,0 +1,16 @@
+Employee_Name,Department,Avg_Attendance_Pct,May_Pct,June_Pct,July_Pct,Aug_Pct,Trend_Change_Pct
+"Nihal Singh",Maintenance,0,0,0,0,0,0
+"Ajeet Singh","Quality Control",0,0,0,0,0,0
+Lala,Administration,13.81,36,3.85,15.38,0,-36
+"Prashant Kumar",Production,26,52,0,0,0,-52
+Sonu,Administration,59,36,73.08,42.31,84.62,48.62
+"Maneesh Kumar",Administration,61.31,88,34.62,0,0,-88
+Rajesh,Administration,68.04,76,53.85,61.54,80.77,4.77
+"Devansh Kumar",Administration,74,96,61.54,50,88.46,-7.54
+"Ram Babu",Administration,74.73,72,76.92,80.77,69.23,-2.77
+"Anit Chaurasiya",Production,75,100,73.08,53.85,73.08,-26.92
+"Ratnesh Kumar",Administration,79.88,108,69.23,57.69,84.62,-23.38
+Rahul,Administration,80.58,80,73.08,84.62,84.62,4.62
+"Anil Kumar",Production,83.38,72,84.62,84.62,92.31,20.31
+"Shivam Kumar","Quality Control",83.46,80,92.31,92.31,69.23,-10.77
+"Sahil Kumar Hela",Store,84.62,100,73.08,88.46,76.92,-23.08
